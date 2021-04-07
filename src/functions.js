@@ -5,9 +5,9 @@
  * 
  * @returns {string}
  */
- function createDocumentationComment(text, indentationString) {
-    return "<!--"
+ function func1(text, indentationString) {
+    return "2"
 }
 
 
-Pulsar.registerFunction("createDocumentationComment", createDocumentationComment)
+Pulsar.registerFunction("func1", func1)

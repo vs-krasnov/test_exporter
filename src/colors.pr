@@ -1,2 +1,2 @@
  1
-{{ @js.createDocumentationComment("1", "  ") }}
+{{ @js.func1("1", "  ") }}
